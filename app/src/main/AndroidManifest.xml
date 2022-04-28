@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.login.MainActivity"
+            android:name=".ui.main.MainActivity"
             android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />

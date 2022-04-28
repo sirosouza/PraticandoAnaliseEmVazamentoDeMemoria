@@ -13,6 +13,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import br.com.realize.praticandoanlisedevazamento.databinding.ActivityLoginBinding
+import br.com.realize.praticandoanlisedevazamento.ui.main.MainActivity
 
 class LoginActivity : AppCompatActivity() {
 

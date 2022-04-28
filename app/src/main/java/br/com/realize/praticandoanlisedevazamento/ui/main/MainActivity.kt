@@ -1,4 +1,4 @@
-package br.com.realize.praticandoanlisedevazamento.ui.login
+package br.com.realize.praticandoanlisedevazamento.ui.main
 
 import android.content.BroadcastReceiver
 import android.content.Context
